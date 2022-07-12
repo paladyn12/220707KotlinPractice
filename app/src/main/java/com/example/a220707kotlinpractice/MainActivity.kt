@@ -54,6 +54,7 @@ class MainActivity : AppCompatActivity() {
             editor.putString("나이","23").apply()
 
 
+
         }
         else    Toast.makeText(this,"로그인 실패",Toast.LENGTH_SHORT).show()
 
