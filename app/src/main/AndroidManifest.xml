@@ -13,6 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.220707KotlinPractice"
         tools:targetApi="31">
+        <activity android:name=".JavaActivity"></activity>
         <activity
             android:name=".MainActivity"
             android:exported="true">
